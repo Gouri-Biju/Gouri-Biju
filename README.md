@@ -1,5 +1,16 @@
-# 💫 About Me:
-I'm currently working on AI-powered tools like an ATS-friendly resume generator using NLP, along with full-stack web applications using Django and Firebase.<br><br>I'm looking to collaborate on data science and full-stack development projects—especially those that solve real-world problems using AI and scalable web technologies.<br><br>I'm looking for help with improving NLP pipelines, deploying machine learning models, and refining web app performance and security.<br><br>I'm currently learning advanced data science techniques, deep learning, and best practices in Django and Firebase for building production-ready apps.<br><br>Ask me about data science, machine learning, Python, Django, Firebase, and deploying ML apps with Streamlit.<br><br>Fun fact: I built and deployed a machine learning app and a Django Firebase web app within a week as part of a self-driven learning sprint!
+💫 About Me
+
+🎯 Currently building AI tools like an NLP-powered resume generator and full-stack web apps using Django + Firebase.
+
+🤝 Open to collaborating on real-world AI and full-stack projects.
+
+🧠 Seeking help with improving NLP, ML model deployment, and web app optimization.
+
+📚 Learning deep learning, advanced data science, and production-ready Django + Firebase practices.
+
+💬 Ask me about Python, ML, Django, Firebase, and deploying AI with Streamlit.
+
+⚡ Fun fact: Built and deployed two major apps in just one week during a self-learning sprint!
 
 
 ## 🌐 Socials:
